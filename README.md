@@ -2,10 +2,10 @@
 
 ## Project Overview
 - **Title:** Decision Analysis for University Selection
-- **Authors:** [Names of the Students]
-- **Course:** [Course Name]
-- **Institution:** [Name of the High School or Institution]
-- **Date:** [Project Submission Date]
+- **Authors:** Gregg Rich, Henry Wu, Micaela Teets, Mitchell Breeden
+- **Course:** SYST-573-003
+- **Institution:** George Mason University
+- **Date:** March 5, 2023
 
 ## Project Description
 Objective: Assist a high school senior in choosing a university for studies in data science or math.
@@ -22,12 +22,14 @@ Objective: Assist a high school senior in choosing a university for studies in d
 - Evaluation and final recommendation based on comprehensive analysis.
 
 ## Additional Resources
-- `Brainstorming_Sessions.docx`
-- `Affinity_Diagrams.pdf`
-- `Decision_Methods.xlsx`
+- `Part 1.pdf`: Project Proposal.
+- `Part 2.pdf`: Progress Review.
+- `Part 3.pdf`: Briefing Materials.
+- `Part 4.pdf`: Final Written Report.
 
 ## Contact Information
-- [Contact Details of the Students or Instructor]
+- Mitchell Breeden, Student, George Mason University.
+- Email: breedenmitch@gmail.com
 
 ## Acknowledgments
-- [Instructor/Advisor Name]
+- Dr. Songjun Luo, Course Instructor.
